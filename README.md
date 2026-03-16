@@ -1,6 +1,6 @@
 # T-REVATHI 
 Aspiring Data Scientist | Java | Python | Machine Learning Projects
-
+---
 # 👋 Hi, I'm Revathi
 
 🎓 B.Tech Data Science Student  
