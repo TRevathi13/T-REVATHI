@@ -7,6 +7,11 @@ Aspiring Data Scientist | Java | Python | Machine Learning Projects
 💻 Learning Java, Python, and Machine Learning  
 🚀 Interested in AI and Data Science ,Web Development
 
+## 🧑‍💻 About Me
+- 🌱 I’m currently learning **Java and Machine Learning**
+- 🎯 My goal is to become a **Data Scientist / Software Developer**
+- 📚 I like building **AI and data science projects**
+
 
 ## Skills
 - Java
@@ -23,4 +28,12 @@ Aspiring Data Scientist | Java | Python | Machine Learning Projects
 ## Goals
 - Improve coding skills
 - Build real-world AI projects
-- Contribute to open-source projects
+- Contribute to open-source projects  
+
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+⭐ Thanks for visiting my profile!
