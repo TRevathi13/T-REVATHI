@@ -13,13 +13,38 @@ Aspiring Data Scientist | Java | Python | Machine Learning Projects
 - 📚 I like building **AI and data science projects**
 
 
-## Skills
-- Java
-- Python
-- Oops
-- Machine Learning
-- Git & GitHub
-  
+# Hi 👋 I'm Revathi
+
+🎓 B.Tech Data Science Student  
+💻 Learning Java, Python, and Machine Learning  
+🚀 Interested in AI and Data Science Projects  
+
+---
+
+## 🛠 Skills
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 📂 Projects
+- Alzheimer Disease Detection  
+- Emotion Recognition from Speech  
+- Handwritten Character Recognition  
+- Concrete Strength Prediction  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-REVATHI&show_icons=true)
 
 ## Projects
 - Alzheimer Disease Detection
