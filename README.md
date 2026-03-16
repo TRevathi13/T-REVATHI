@@ -32,8 +32,7 @@ Aspiring Data Scientist | Java | Python | Machine Learning Projects
 
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-REVATHI&show_icons=true)
 ---
 
 ⭐ Thanks for visiting my profile!
