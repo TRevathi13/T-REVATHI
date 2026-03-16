@@ -14,3 +14,13 @@ Aspiring Data Scientist | Java | Python | Machine Learning Projects
 - Oops
 - Machine Learning
 - Git & GitHub
+  
+
+## Projects
+- Alzheimer Disease Detection
+- Ai-Based nutritional analysis 
+
+## Goals
+- Improve coding skills
+- Build real-world AI projects
+- Contribute to open-source projects
